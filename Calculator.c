@@ -196,6 +196,8 @@ base()
     {
         int decimal,octal,hexa,press;
         long long binary;
+        printf("\n");
+        printf("\t\t <<Base Converter>>");
         printf("\n\n 1. Press 1 to binary to decimal ");
         printf("\n\n 2. Press 2 to bimary to octal ");
         printf("\n\n 3. Press 3 to binary to hexa ");
@@ -208,6 +210,7 @@ base()
         printf("\n\n 10. Press 10 to hexa to binary");
         printf("\n\n 11. Press 11 to hexa to decimal");
         printf("\n\n 12. Press 12 to hexa to octal\n\n");
+        printf("\nEnter Your Choice: ");
         scanf("%d",&press);
         if(press == 5)
         {
@@ -740,4 +743,3 @@ void about()
         printf("Invalid Input!!Try again.");
     }
 }
-
