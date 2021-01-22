@@ -11,5 +11,11 @@
 # Font Page of  Arithmetic Calculation.
 ![img 2](https://github.com/HiBijoy143/CalculatorUsingCProgrammingLanguage/blob/main/calculator_ari.jpg)
 
-# Calculation Arithmetic Calculation.
+# Calculation of Arithmetic Calculation.
 ![img 3](https://github.com/HiBijoy143/CalculatorUsingCProgrammingLanguage/blob/main/Calculator_area_font.jpg)
+
+# Font Page of Area Calculation.
+![img 4](https://github.com/HiBijoy143/CalculatorUsingCProgrammingLanguage/blob/main/Calculator_area_font.jpg)
+
+# Calculation of Area Calculation.
+![img 5](https://github.com/HiBijoy143/CalculatorUsingCProgrammingLanguage/blob/main/Calculator_area_sqr.jpg)
