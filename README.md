@@ -1,4 +1,4 @@
-# CalculatorUsingCProgrammingLanguage
+# Calculator Using C Programming Language
 # Features: 
 - Arithmetic Calculation.
 - Trigonometric &amp; Logical calculations.
