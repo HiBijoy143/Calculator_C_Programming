@@ -4,3 +4,6 @@
 - Trigonometric &amp; Logical calculations.
 - Area calculation 
 - Base  calculation.
+
+# Font Page
+![img 1](https://github.com/HiBijoy143/CalculatorUsingCProgrammingLanguage/blob/main/calculator_font.jpg)
